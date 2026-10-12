@@ -1,0 +1,4 @@
+{
+"theme/15zine":{"name":"15Zine | Magazine Newspaper Blog News WordPress Theme","vulns":[{"affected":["< 3.3.0"],"fixed":["3.3.0"],"id":"CVE-2020-36510"}]},
+"theme/5star":{"name":"5 Star Hotel","vulns":[{"affected":["<= 1.0"],"fixed":["1.1"],"id":"b2cea890-b131-47cd-9050-a484fb1895f6","published":"2014-03-31"}]}
+}

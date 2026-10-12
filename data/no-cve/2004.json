@@ -1,0 +1,4 @@
+{
+"WPV-a330a0d0202d615bd7219d0cd1e74ff87cb770375325a446c4a58ab51e9216e9":{"packages":[{"slug":"wordpress","type":"core"}],"published":"2004-10-06","sources":["wpvulnerability"],"title":"1.0.2","wpvulnerability":"a330a0d0202d615bd7219d0cd1e74ff87cb770375325a446c4a58ab51e9216e9"},
+"WPV-f35cfbb9944b4796a3be5420d91898c354b591411af62348656ef710b2041a54":{"packages":[{"slug":"wordpress","type":"core"}],"published":"2004-10-06","sources":["wpvulnerability"],"title":"1.0.2","wpvulnerability":"f35cfbb9944b4796a3be5420d91898c354b591411af62348656ef710b2041a54"}
+}

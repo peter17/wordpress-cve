@@ -1,0 +1,14 @@
+{
+"theme/qaengine":{"name":"QAEngine","vulns":[{"affected":["<= 1.4"],"fixed":["1.5"],"id":"2224b17e-e327-4b86-85db-ad878f989839","published":"2015-04-24"}]},
+"theme/qempo":{"name":"Qempo - Digital Agency Services WordPress Theme","vulns":[{"affected":["<= 1.2.6"],"id":"CVE-2024-43334","unfixed":true}]},
+"theme/qizon":{"name":"Qizon - Crowdfunding & Charity WordPress Theme","vulns":[{"affected":["<= 1.1.6"],"fixed":["1.1.7"],"id":"CVE-2024-43334"}]},
+"theme/qreatix":{"name":"Qreatix","vulns":[{"affected":["<= 1.9.4"],"id":"CVE-2025-69104","unfixed":true}]},
+"theme/qt-kentharadio":{"name":"KenthaRadio - Addon for Kentha Music WordPress Theme To Add Radio Station and Schedule Functionality","vulns":[{"affected":["< 2.0.2"],"fixed":["2.0.2"],"id":"CVE-2021-24472"},{"affected":["<= 2.2.0"],"id":"CVE-2025-69003","unfixed":true}]},
+"theme/quality":{"name":"Quality","vulns":[{"affected":["< 2.7.4"],"fixed":["2.7.4"],"id":"e09e48db-f74a-4663-a724-24938a6c277c","published":"2022-02-14"}]},
+"theme/quantum":{"name":"quantum","vulns":[{"affected":["<= 1.0"],"id":"CVE-2026-22421","unfixed":true}]},
+"theme/quanzo":{"name":"Quanzo - Creative Portfolio Template Kit","vulns":[{"affected":["<= 1.0.10"],"id":"CVE-2026-27989","unfixed":true}]},
+"theme/quasar":{"name":"Quasar - WordPress Theme with Animation Builder","vulns":[{"affected":["< 2.0"],"fixed":["2.0"],"id":"86566819-ec2e-4d56-87f6-4cd4b6de6192","published":"2015-02-02"}]},
+"theme/quirky":{"name":"Quirky","vulns":[{"affected":["<= 1.23"],"id":"CVE-2025-69148","unfixed":true}]},
+"theme/quota":{"name":"Easy Digital Downloads - Quota","vulns":[{"affected":["< 1.2.5"],"fixed":["1.2.5"],"id":"CVE-2015-9534"}]},
+"theme/qwery":{"name":"Qwery - Multi-Purpose Business WordPress & WooCommerce Theme + ChatGPT","vulns":[{"affected":["< 3.6.0"],"fixed":["3.6.0"],"id":"CVE-2025-26592"}]}
+}
