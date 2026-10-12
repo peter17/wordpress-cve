@@ -1,0 +1,92 @@
+name: Update WordPress CVE mapping
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # every day at 03:17 UTC
+  workflow_dispatch:
+    inputs:
+      wpvuln_max_per_run:
+        description: "Max number of WPVulnerability keys to refresh (default: 2500)"
+        required: false
+        default: "2500"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-mapping
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Clone cvelistV5 (shallow)
+        run: git clone --depth 1 https://github.com/CVEProject/cvelistV5.git "$RUNNER_TEMP/cvelistV5"
+
+      - name: Download Wordfence Intelligence feed (v3)
+        env:
+          WORDFENCE_API_KEY: ${{ secrets.WORDFENCE_API_KEY }}
+        run: |
+          test -n "$WORDFENCE_API_KEY" || { echo "Missing WORDFENCE_API_KEY secret"; exit 1; }
+          curl -fsS --compressed --retry 3 \
+            -H "Authorization: Bearer $WORDFENCE_API_KEY" \
+            -o "$RUNNER_TEMP/wordfence.json" \
+            https://www.wordfence.com/api/intelligence/v3/vulnerabilities/production
+
+      - name: Build mapping
+        env:
+          WPVULN_MAX_PER_RUN: ${{ github.event.inputs.wpvuln_max_per_run || vars.WPVULN_MAX_PER_RUN || '2500' }}
+          WPVULN_TIME_BUDGET: "1500"
+        run: python scripts/build.py "$RUNNER_TEMP/cvelistV5/cves" data "$RUNNER_TEMP/wordfence.json" "$RUNNER_TEMP/dist"
+
+      - name: Publish consolidated files as release assets
+        # Optional convenience: single gzipped JSON files, not stored in git history.
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          gh release view data-latest >/dev/null 2>&1 || \
+            gh release create data-latest --latest=false \
+              --title "Latest consolidated data" \
+              --notes "Consolidated gzipped JSON files, refreshed daily by the update workflow."
+          gh release upload data-latest "$RUNNER_TEMP"/dist/*.gz --clobber
+
+      - name: Commit if changed
+        run: |
+          set -euo pipefail
+          echo "--- total size of data/ and 10 largest files ---"
+          du -sh data
+          find data -type f -exec du -h {} + | sort -h | tail -10
+          too_big=$(find data -type f -size +95M)
+          if [ -n "$too_big" ]; then
+            echo "::error::These files exceed GitHub's 100 MB file limit: $too_big"
+            exit 1
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config http.postBuffer 524288000
+          git add data
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git commit -m "chore: update WordPress CVE mapping $(date -u +%F)"
+          for attempt in 1 2 3; do
+            if git push origin "HEAD:${GITHUB_REF_NAME}"; then
+              exit 0
+            fi
+            echo "::warning::git push failed (attempt $attempt/3); rebasing and retrying"
+            sleep $((attempt * 15))
+            git pull --rebase -X theirs origin "$GITHUB_REF_NAME" || git rebase --abort || true
+          done
+          echo "::error::git push failed after 3 attempts (see the messages above)"
+          exit 1
