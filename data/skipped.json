@@ -6452,6 +6452,8 @@
 {"assigner":"WPScan","candidates":[],"cve":"CVE-2026-89234","products":["WP-Partner"],"reason":"slug not determined"},
 {"assigner":"WPScan","candidates":[],"cve":"CVE-2026-89236","products":["SaveTo Wishlist Lite"],"reason":"slug not determined"},
 {"assigner":"WPScan","candidates":[],"cve":"CVE-2026-89237","products":["Bluff Post"],"reason":"slug not determined"},
+{"assigner":"WPScan","candidates":[],"cve":"CVE-2026-89269","products":["WP Testimonials"],"reason":"slug not determined"},
+{"assigner":"WPScan","candidates":[],"cve":"CVE-2026-89271","products":["WP-BusinessDirectory"],"reason":"slug not determined"},
 {"assigner":"WPScan","candidates":[],"cve":"CVE-2026-89283","products":["WP Posts Password Batch Manager"],"reason":"slug not determined"},
 {"assigner":"WPScan","candidates":[],"cve":"CVE-2026-89285","products":["Datalist it"],"reason":"slug not determined"},
 {"assigner":"WPScan","candidates":[],"cve":"CVE-2026-89287","products":["ASPL Product Quotation"],"reason":"slug not determined"},

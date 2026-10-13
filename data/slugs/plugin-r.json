@@ -343,6 +343,7 @@
 "plugin/responsive-progress-bar":{"name":"Responsive Progress Bar","vulns":[{"affected":["<= 1.0"],"id":"CVE-2025-11883","unfixed":true}]},
 "plugin/responsive-sidebar":{"name":"Responsive Sidebar","vulns":[{"affected":["<= 1.2.2"],"id":"CVE-2025-60073","unfixed":true}]},
 "plugin/responsive-slick-slider":{"name":"Responsive Slick Slider WordPress","vulns":[{"affected":["<= 1.4","<= 1.5"],"by_source":{"cvelistV5":["<= 1.4"],"wordfence":["<= 1.5"]},"id":"CVE-2023-49852","unfixed":true}]},
+"plugin/responsive-slider":{"name":"Responsive Slider","vulns":[{"affected":["<= 0.1.9"],"id":"CVE-2026-54867"}]},
 "plugin/responsive-slider-gallery":{"name":"Responsive Slider Gallery","vulns":[{"affected":["<= 1.5.5"],"fixed":["1.5.6"],"id":"CVE-2026-94122"}]},
 "plugin/responsive-tabs":{"name":"Responsive Tabs (WordPress plugin)","vulns":[{"affected":["<= 4.0.5",">= <= 4.0.5, <= 4.0.5"],"by_source":{"cvelistV5-inferred":[">= <= 4.0.5, <= 4.0.5"],"wordfence":["<= 4.0.5"]},"fixed":["4.0.6"],"id":"CVE-2021-36893"},{"affected":["< 4.0.6"],"fixed":["4.0.6"],"id":"CVE-2023-45635"},{"affected":["<= 2.2.6"],"fixed":["2.2.7"],"id":"CVE-2024-1712"},{"affected":["<= 4.0.6"],"fixed":["4.0.7"],"id":"CVE-2024-1846"},{"affected":["<= 4.0.10"],"fixed":["4.0.11"],"id":"CVE-2024-4096"}]},
 "plugin/responsive-tabs-for-wpbakery":{"name":"Responsive Tabs For WPBakery Page Builder (formerly Visual Composer)","vulns":[{"affected":["<= 1.1"],"id":"CVE-2023-0368","unfixed":true}]},
