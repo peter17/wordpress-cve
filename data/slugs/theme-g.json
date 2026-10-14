@@ -76,7 +76,7 @@
 "theme/greenorganic":{"name":"GreenOrganic - Organic & Bakery WordPress Theme","vulns":[{"affected":["<= 2.45"],"id":"CVE-2025-53437","unfixed":true}]},
 "theme/greenthumb":{"name":"Green Thumb | Gardening & Landscaping Services WP","vulns":[{"affected":["<= 1.1.12"],"id":"CVE-2026-28017","unfixed":true}]},
 "theme/greenville":{"name":"Greenville | Private School & University Education WordPress Theme","vulns":[{"affected":["<= 1.3.2"],"id":"CVE-2026-22495","unfixed":true}]},
-"theme/greeny":{"name":"Greeny - Electric Car Dealership WordPress Theme","vulns":[{"affected":["<= 2.6"],"id":"CVE-2025-53441","unfixed":true}]},
+"theme/greeny":{"name":"Greeny - Electric Car Dealership WordPress Theme","vulns":[{"affected":["<= 2.6"],"id":"CVE-2025-53441","unfixed":true},{"affected":["<= 2.10.0"],"id":"CVE-2026-93940","unfixed":true}]},
 "theme/grevo":{"name":"Grevo - Electric Vehicle Charging WordPress Theme","vulns":[{"affected":["<= 2.4"],"fixed":["2.5"],"id":"CVE-2025-62029"}]},
 "theme/grey-opaque":{"name":"Grey Opaque","vulns":[{"affected":["<= 2.0.1"],"id":"CVE-2024-5966","unfixed":true}]},
 "theme/gridiron":{"name":"Gridiron | American Football & NFL Team WordPress","vulns":[{"affected":["<= 1.0.14"],"id":"CVE-2026-28012","unfixed":true}]},
@@ -89,7 +89,7 @@
 "theme/gunslinger":{"name":"Gunslinger","vulns":[{"affected":["<= 1.7"],"id":"CVE-2025-69166","unfixed":true}]},
 "theme/gustavo":{"name":"Gustavo | Mexican Grill, Bar & Restaurant WordPress Theme","vulns":[{"affected":["<= 1.2.2"],"id":"CVE-2026-22371","unfixed":true}]},
 "theme/gutenbook":{"name":"GutenBook","vulns":[{"affected":[">= 1.0.8, <= 1.0.14"],"id":"CVE-2023-33999","unfixed":true}]},
-"theme/gutentype":{"name":"Gutentype | 100% Gutenberg Blog Theme + Elementor","vulns":[{"affected":["<= 2.1.11"],"fixed":["2.1.12"],"id":"CVE-2025-26592"}]},
+"theme/gutentype":{"name":"Gutentype | 100% Gutenberg Blog Theme + Elementor","vulns":[{"affected":["<= 2.1.11"],"fixed":["2.1.12"],"id":"CVE-2025-26592"},{"affected":["<= 2.1.12"],"id":"CVE-2026-62046","unfixed":true}]},
 "theme/gym-express":{"name":"Gym Express","vulns":[{"affected":["<= 1.0.2"],"fixed":["1.0.3"],"id":"CVE-2023-33999"}]},
 "theme/gymbase_classes":{"name":"GymBase Theme Classes","vulns":[{"affected":["<= 1.4"],"fixed":["1.5"],"id":"CVE-2025-54026"}]}
 }

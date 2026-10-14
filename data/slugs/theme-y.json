@@ -1,6 +1,6 @@
 {
 "theme/yaaburnee-themes":{"name":"Ya'aburnee - Magazine & E-Commerce Theme | News / Editorial","vulns":[{"affected":["<= 1.0.7"],"id":"9d8551b8-67b9-45a8-9357-9e42fb451606","published":"2015-03-04","unfixed":true}]},
-"theme/yacht-rental":{"name":"Yacht Rental - Boat Services WordPress Theme","vulns":[{"affected":["<= 2.6"],"id":"CVE-2026-28051","unfixed":true}]},
+"theme/yacht-rental":{"name":"Yacht Rental - Boat Services WordPress Theme","vulns":[{"affected":["<= 2.6"],"id":"CVE-2026-28051","unfixed":true},{"affected":["<= 2.6"],"id":"CVE-2026-62054","unfixed":true}]},
 "theme/yobazar":{"name":"Yobazar - Elementor Fashion WooCommerce Theme","vulns":[{"affected":["< 1.6.7"],"fixed":["1.6.7"],"id":"CVE-2026-25356"}]},
 "theme/yogi":{"name":"Yogi - Health Beauty & Yoga WordPress Theme","vulns":[{"affected":["< 2.9.3"],"fixed":["2.9.3"],"id":"CVE-2025-24779"}]},
 "theme/yokoo":{"name":"Yokoo","vulns":[{"affected":["<= 1.1.11"],"id":"CVE-2025-69400","unfixed":true}]},

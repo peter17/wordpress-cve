@@ -48,7 +48,7 @@
 "theme/flatsome":{"name":"Flatsome","vulns":[{"affected":["<= 3.16.8"],"fixed":["3.17.0"],"id":"CVE-2023-28994"},{"affected":["<= 3.17.5"],"fixed":["3.17.6"],"id":"CVE-2023-40555"},{"affected":["<= 3.18.7"],"fixed":["3.19.0"],"id":"CVE-2024-5156"},{"affected":["<= 3.18.7"],"fixed":["3.19.0"],"id":"CVE-2024-5346"},{"affected":["<= 3.20.0"],"fixed":["3.20.1"],"id":"CVE-2025-8684"},{"affected":["<= 3.20.5"],"fixed":["3.20.6"],"id":"CVE-2026-28083"},{"affected":["<= 3.19.6"],"fixed":["3.19.7"],"id":"CVE-2026-31915"},{"affected":["<= 3.20.5"],"id":"CVE-2026-57728","unfixed":true},{"affected":["<= 3.20.5"],"id":"CVE-2026-57729","unfixed":true},{"affected":["<= 3.20.5"],"id":"CVE-2026-57730","unfixed":true},{"affected":["<= 3.20.5"],"id":"CVE-2026-57731","unfixed":true}]},
 "theme/fleur":{"name":"fleur","vulns":[{"affected":["<= 2.0"],"id":"CVE-2026-22397","unfixed":true}]},
 "theme/flex-mag":{"name":"Flex Mag - Responsive WordPress News Theme","vulns":[{"affected":["<= 3.5.2"],"fixed":["3.6.0"],"id":"CVE-2024-13655"}]},
-"theme/flipmart":{"name":"Flipmart - MegaOne Multipurpose WordPress Theme","vulns":[{"affected":["<= 2.8"],"id":"CVE-2026-39716","unfixed":true}]},
+"theme/flipmart":{"name":"Flipmart - MegaOne Multipurpose WordPress Theme","vulns":[{"affected":["<= 2.8"],"id":"CVE-2026-39716","unfixed":true},{"affected":["<= 2.8"],"id":"CVE-2026-62070","unfixed":true}]},
 "theme/flixita":{"name":"Flixita","vulns":[{"affected":["<= 1.0.82"],"fixed":["1.0.83"],"id":"CVE-2024-10836"}]},
 "theme/flow":{"name":"Flow","vulns":[{"affected":["<= 1.8"],"id":"CVE-2026-57793","unfixed":true}]},
 "theme/flozen-theme":{"name":"Flozen - WooCommerce AJAX WordPress RTL Theme","vulns":[{"affected":["< 1.5.1"],"fixed":["1.5.1"],"id":"CVE-2025-49071"}]},

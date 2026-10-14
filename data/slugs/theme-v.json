@@ -51,6 +51,7 @@
 "theme/vmagazine-news":{"name":"Vmagazine News","vulns":[{"affected":["<= 1.0.5"],"fixed":["1.0.6"],"id":"CVE-2021-39317"},{"affected":["<= 1.0.5"],"fixed":["1.0.6"],"id":"CVE-2022-23975"},{"affected":["<= 1.0.5"],"fixed":["1.0.6"],"id":"59bf14a9-5abe-4b83-9364-d318eedaba83","published":"2022-01-11"}]},
 "theme/vocal":{"name":"Vocal - Singing & Voice Artist WordPress Theme","vulns":[{"affected":["<= 1.12"],"id":"CVE-2025-58946","unfixed":true}]},
 "theme/voice":{"name":"Voice","vulns":[{"affected":["< 2.0.0"],"fixed":["2.0.0"],"id":"CVE-2021-24219"},{"affected":["< 2.0.0"],"fixed":["2.0.0"],"id":"CVE-2021-24220"}]},
+"theme/volos-wp":{"name":"Volos - One Page Resume WordPress Theme","vulns":[{"affected":["<= 1.2"],"id":"CVE-2026-62066","unfixed":true}]},
 "theme/vw-automobile-lite":{"name":"VW Automobile Lite","vulns":[{"affected":["<= 2.1.2"],"id":"CVE-2024-56234","unfixed":true}]},
 "theme/vw-education-lite":{"name":"VW Education Lite","vulns":[{"affected":["<= 2.2.0"],"fixed":["2.2.1"],"id":"CVE-2026-32427"}]},
 "theme/vw-fitness":{"name":"VW Fitness","vulns":[{"affected":["<= 4.3.4"],"fixed":["4.3.5"],"id":"CVE-2026-32434"}]},

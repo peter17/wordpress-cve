@@ -4,7 +4,7 @@
 "theme/ultra-seven":{"name":"Ultra Seven","vulns":[{"affected":["<= 1.2.8"],"id":"CVE-2021-39317","unfixed":true},{"affected":["<= 1.2.8"],"id":"CVE-2022-23975","unfixed":true},{"affected":["<= 1.2.8"],"id":"59bf14a9-5abe-4b83-9364-d318eedaba83","published":"2022-01-11","unfixed":true}]},
 "theme/ultrapress":{"name":"UltraPress","vulns":[{"affected":["<= 1.2.2"],"id":"CVE-2024-7434","unfixed":true}]},
 "theme/umberto":{"name":"Umberto - Mushroom Farm & Organic Products Store WordPress Theme","vulns":[{"affected":["<= 1.2.8"],"id":"CVE-2025-31423","unfixed":true}]},
-"theme/uminex":{"name":"Uminex - Multipurpose WooCommerce Theme","vulns":[{"affected":["<= 1.0.9"],"id":"CVE-2026-39629","unfixed":true}]},
+"theme/uminex":{"name":"Uminex - Multipurpose WooCommerce Theme","vulns":[{"affected":["<= 1.0.9"],"id":"CVE-2026-39629","unfixed":true},{"affected":["<= 1.0.9"],"id":"CVE-2026-48193","unfixed":true}]},
 "theme/unakit":{"name":"Unakit","vulns":[{"affected":["< 1.2.4.2"],"fixed":["1.2.4.2"],"id":"CVE-2022-4974"}]},
 "theme/uncode":{"name":"Uncode","vulns":[{"affected":["<= 2.9.1.6"],"fixed":["2.9.1.7"],"id":"CVE-2024-13667"},{"affected":["<= 2.9.1.6"],"fixed":["2.9.1.7"],"id":"CVE-2024-13681"},{"affected":["<= 2.9.1.6"],"fixed":["2.9.1.7"],"id":"CVE-2024-13691"},{"affected":["< 2.9.4.4"],"fixed":["2.9.4.4"],"id":"CVE-2025-48107"},{"affected":["<= 2.12.7"],"fixed":["2.12.8"],"id":"CVE-2026-81291"}]},
 "theme/uncode-lite":{"name":"Uncode Lite","vulns":[{"affected":["<= 1.3.3"],"id":"CVE-2021-39317","unfixed":true},{"affected":["<= 1.3.3"],"id":"CVE-2022-23975","unfixed":true},{"affected":["<= 1.3.3"],"id":"59bf14a9-5abe-4b83-9364-d318eedaba83","published":"2022-01-11","unfixed":true}]},

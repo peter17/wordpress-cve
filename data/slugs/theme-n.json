@@ -1,7 +1,7 @@
 {
 "theme/NativeChurch":{"name":"NativeChurch","vulns":[{"affected":["<= 4.8.8.2"],"id":"CVE-2026-27408","unfixed":true},{"affected":["<= 1.6.1"],"fixed":["1.6.2"],"id":"6e6cda1a-e137-4c30-a66b-c10a88070c50","published":"2015-07-13"}]},
 "theme/Newspaper":{"name":"Newspaper - News & WooCommerce WordPress Theme","vulns":[{"affected":["<= 6.7.1"],"fixed":["6.7.2"],"id":"CVE-2016-10972"},{"affected":["< 6.7.2"],"fixed":["6.7.2"],"id":"CVE-2017-18634"},{"affected":["<= 11.5.1"],"fixed":["12"],"id":"CVE-2022-2167"},{"affected":["<= 11.5.1"],"fixed":["12"],"id":"CVE-2022-2627"},{"affected":["<= 12"],"fixed":["12.1"],"id":"CVE-2022-3477"},{"affected":["<= 12.3"],"fixed":["12.4"],"id":"CVE-2023-1597"},{"affected":["<= 12.6.5"],"fixed":["12.6.6"],"id":"CVE-2024-3815"},{"affected":["< 9.2.2"],"fixed":["9.2.2"],"id":"31c6e07a-3a3a-4295-a86d-79b4ca1a331e","published":"2019-02-14"},{"affected":["<= 10.3.3"],"fixed":["10.3.4"],"id":"441f5764-eab6-40fe-80cd-65da327b39b2","published":"2020-06-03"}]},
-"theme/n7-golf-club":{"name":"N7","vulns":[{"affected":["<= 2.16.0"],"id":"CVE-2026-28045","unfixed":true}]},
+"theme/n7-golf-club":{"name":"N7","vulns":[{"affected":["<= 2.16.0"],"id":"CVE-2026-28045","unfixed":true},{"affected":["<= 2.21"],"id":"CVE-2026-62124","unfixed":true}]},
 "theme/namaha":{"name":"Namaha","vulns":[{"affected":["< 1.0.41","<= 1.0.40"],"by_source":{"cvelistV5":["<= 1.0.40"],"wordfence":["< 1.0.41"]},"fixed":["1.0.41"],"id":"CVE-2024-31386"}]},
 "theme/nanocare":{"name":"Home Health Care, Medical Care WordPress Theme - NanoCare","vulns":[{"affected":["< 1.2.2"],"fixed":["1.2.2"],"id":"CVE-2026-32389"}]},
 "theme/nanomag":{"name":"NanoMag","vulns":[{"affected":["<= 1.8"],"fixed":["1.9"],"id":"CVE-2026-57325"}]},

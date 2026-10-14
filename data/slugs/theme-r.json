@@ -80,7 +80,7 @@
 "theme/roisin":{"name":"Roisin - Flower Shop and Florist WordPress Theme","vulns":[{"affected":["<= 1.2.1"],"fixed":["1.4"],"id":"CVE-2026-22512"},{"affected":["<= 1.4"],"fixed":["1.5"],"id":"CVE-2026-40754"}]},
 "theme/roneous":{"name":"Roneous","vulns":[{"affected":["<= 2.1.5"],"id":"CVE-2025-69177","unfixed":true}]},
 "theme/rosaleen":{"name":"Rosaleen","vulns":[{"affected":["<= 2.8"],"id":"CVE-2025-69107","unfixed":true}]},
-"theme/rosalinda":{"name":"Rosalinda | Health Coach & Vegetarian Lifestyle WordPress Theme","vulns":[{"affected":["<= 1.2.3"],"id":"CVE-2025-60063","unfixed":true}]},
+"theme/rosalinda":{"name":"Rosalinda | Health Coach & Vegetarian Lifestyle WordPress Theme","vulns":[{"affected":["<= 1.2.3"],"id":"CVE-2025-60063","unfixed":true},{"affected":["<= 1.2.4"],"id":"CVE-2026-93933","unfixed":true}]},
 "theme/rosebud":{"name":"Rosebud - Flower Shop and Florist WordPress Theme","vulns":[{"affected":["<= 1.4"],"id":"CVE-2026-24631","unfixed":true},{"affected":["<= 1.4"],"id":"CVE-2026-27081","unfixed":true}]},
 "theme/roseta":{"name":"Roseta","vulns":[{"affected":["<= 1.3.0"],"id":"CVE-2024-45451","unfixed":true}]},
 "theme/rovenstart":{"name":"Rovenstart","vulns":[{"affected":[">= 1.0.0, <= 1.2.0"],"fixed":["1.2.2"],"id":"CVE-2023-33999"}]},
