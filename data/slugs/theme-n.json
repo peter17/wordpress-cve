@@ -12,6 +12,7 @@
 "theme/neighborly":{"name":"Neighborly","vulns":[{"affected":["<= 1.4"],"id":"CVE-2024-5869","unfixed":true}]},
 "theme/nelson":{"name":"nelson","vulns":[{"affected":["<= 1.2.0"],"id":"CVE-2026-22503","unfixed":true}]},
 "theme/neobeat":{"name":"NeoBeat - Music WordPress Theme","vulns":[{"affected":["<= 1.2"],"fixed":["1.7"],"id":"CVE-2026-22511"},{"affected":["<= 1.7"],"fixed":["1.8"],"id":"CVE-2026-39557"}]},
+"theme/neocut":{"name":"Neo | Barber Shop WordPress Theme","vulns":[{"affected":["<= 3.5"],"id":"CVE-2026-94064","unfixed":true}]},
 "theme/neom-blog":{"name":"Neom Blog","vulns":[{"affected":["<= 0.0.9"],"fixed":["0.1.0"],"id":"CVE-2025-49274"}]},
 "theme/neon":{"name":"Neon - Bootstrap Admin Theme","vulns":[{"affected":["<= 2.0"],"id":"CVE-2019-20141","unfixed":true}]},
 "theme/neoocular":{"name":"Neo Ocular - Optician and Optical Store WordPress Theme","vulns":[{"affected":["< 1.2"],"fixed":["1.2"],"id":"CVE-2025-67920"}]},
@@ -77,6 +78,6 @@
 "theme/numinous":{"name":"Numinous","vulns":[{"affected":["<= 1.3.0"],"fixed":["1.3.1"],"id":"CVE-2026-32380"}]},
 "theme/nuss":{"name":"Nuss - Hotel Booking WordPress","vulns":[{"affected":["<= 1.3.3"],"id":"CVE-2025-52804","unfixed":true},{"affected":["<= 1.3.3"],"id":"CVE-2025-52827","unfixed":true},{"affected":["<= 1.3.6"],"id":"CVE-2026-57799","unfixed":true},{"affected":["<= 1.3.3"],"id":"58df5dc1-c56a-43ba-ad5a-b700351b42dc","published":"2025-08-25","unfixed":true}]},
 "theme/nutrie":{"name":"Nutrie - Health Coach and Nutrition WordPress Theme","vulns":[{"affected":["< 2.0.1"],"fixed":["2.0.1"],"id":"CVE-2025-68555"}]},
-"theme/nuts":{"name":"Nuts","vulns":[{"affected":["<= 1.10"],"id":"CVE-2026-28023","unfixed":true}]},
+"theme/nuts":{"name":"Nuts","vulns":[{"affected":["<= 1.10"],"id":"CVE-2026-28023","unfixed":true},{"affected":["<= 1.12"],"id":"CVE-2026-62006","unfixed":true}]},
 "theme/nyla":{"name":"Nyla - A Fresh & Modern WooCommerce Theme","vulns":[{"affected":["<= 1.7"],"id":"CVE-2026-39642","unfixed":true}]}
 }

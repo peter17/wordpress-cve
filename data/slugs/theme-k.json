@@ -29,6 +29,7 @@
 "theme/kids-gift-shop":{"name":"Kids Gift Shop","vulns":[{"affected":["<= 0.5.4"],"fixed":["0.5.5"],"id":"CVE-2026-40748"}]},
 "theme/kids-online-store":{"name":"Kids Online Store","vulns":[{"affected":["<= 0.8.9"],"fixed":["0.9.0"],"id":"CVE-2026-40750"}]},
 "theme/kids-world":{"name":"Kids Heaven - Children Education WordPress Theme","vulns":[{"affected":["<= 3.2"],"id":"CVE-2025-67619","unfixed":true}]},
+"theme/kidscare":{"name":"Kids Care | Children & Child Care WordPress Theme","vulns":[{"affected":["<= 3.2.4"],"id":"CVE-2026-42704","unfixed":true}]},
 "theme/kidslife":{"name":"Kids Life | Children School WordPress","vulns":[{"affected":["<= 5.2"],"id":"CVE-2026-27402","unfixed":true}]},
 "theme/kidsplanet":{"name":"Kids Planet - Children Kindergarten and Playgroup WordPress Theme","vulns":[{"affected":["<= 2.2.14"],"fixed":["2.2.14.1"],"id":"CVE-2025-48289"},{"affected":["<= 2.2.14.2"],"id":"CVE-2026-57742","unfixed":true}]},
 "theme/kidszone":{"name":"Kids Zone - Children WordPress Theme","vulns":[{"affected":["<= 5.4"],"id":"CVE-2025-69156","unfixed":true}]},
@@ -54,6 +55,6 @@
 "theme/krowd":{"name":"Krowd - Crowdfunding & Charity WordPress Theme","vulns":[{"affected":["< 1.5.0"],"fixed":["1.5.0"],"id":"CVE-2025-32595"}]},
 "theme/krste":{"name":"Krste","vulns":[{"affected":[">= 1.0.0, <= 1.0.3"],"id":"CVE-2023-33999","unfixed":true}]},
 "theme/kunco":{"name":"Kunco - Charity & Fundraising WordPress Theme","vulns":[{"affected":["< 1.4.5"],"fixed":["1.4.5"],"id":"CVE-2026-32531"}]},
-"theme/kute-boutique":{"name":"Boutique - Kute Fashion WooCommerce Theme ( RTL Supported )","vulns":[{"affected":["< 2.4.6"],"fixed":["2.4.6"],"id":"CVE-2026-25342"},{"affected":["<= 2.3.3"],"id":"CVE-2026-39613","unfixed":true},{"affected":["<= 2.3.3"],"id":"CVE-2026-62099","unfixed":true}]},
+"theme/kute-boutique":{"name":"Boutique - Kute Fashion WooCommerce Theme ( RTL Supported )","vulns":[{"affected":["< 2.4.6"],"fixed":["2.4.6"],"id":"CVE-2026-25342"},{"affected":["<= 2.3.3"],"id":"CVE-2026-39613","unfixed":true},{"affected":["<= 2.3.3"],"id":"CVE-2026-62098","unfixed":true},{"affected":["<= 2.3.3"],"id":"CVE-2026-62099","unfixed":true}]},
 "theme/kuteshop":{"name":"kuteshop","vulns":[{"affected":["<= 4.2.9"],"id":"CVE-2026-39611","unfixed":true},{"affected":["<= 4.2.9"],"id":"CVE-2026-39612","unfixed":true},{"affected":["<= 4.2.9"],"id":"CVE-2026-62100","unfixed":true},{"affected":["<= 4.2.9"],"id":"CVE-2026-62115","unfixed":true}]}
 }

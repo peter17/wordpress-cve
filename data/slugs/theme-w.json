@@ -22,6 +22,7 @@
 "theme/welowe":{"name":"Welowe - Nonprofit Charity WordPress Theme","vulns":[{"affected":["<= 1.0.8"],"fixed":["1.0.9"],"id":"CVE-2024-43334"}]},
 "theme/werkstatt":{"name":"Werkstatt - Creative Portfolio WordPress Theme","vulns":[{"affected":["< 4.8.3"],"fixed":["4.8.3"],"id":"CVE-2025-69314"},{"affected":["<= 4.8.3"],"id":"CVE-2026-27414","unfixed":true},{"affected":["<= 4.7.2"],"id":"CVE-2026-57689","unfixed":true},{"affected":["<= 4.7.2"],"id":"CVE-2026-57690","unfixed":true},{"affected":["<= 4.8.3"],"id":"CVE-2026-94062","unfixed":true}]},
 "theme/westand":{"name":"Westand","vulns":[{"affected":["< 2.1"],"fixed":["2.1"],"id":"CVE-2022-0316"}]},
+"theme/whistle-sports-club":{"name":"Whistle - Sports Clothing & Fitness Equipment","vulns":[{"affected":["<= 4.2"],"id":"CVE-2026-94061","unfixed":true}]},
 "theme/whiterabbit":{"name":"White Rabbit - Kids Toys & Children Clothing Store","vulns":[{"affected":["<= 1.5.2"],"id":"CVE-2025-60226","unfixed":true}]},
 "theme/whitish-lite":{"name":"Whitish Lite","vulns":[{"affected":["<= 2.1.13"],"id":"CVE-2025-22278","unfixed":true}]},
 "theme/wibar":{"name":"Wibar | Wine and Vineyard WooCommerce WordPress Theme","vulns":[{"affected":["<= 1.1.8"],"id":"CVE-2020-37235","unfixed":true},{"affected":["< 1.2.1"],"fixed":["1.2.1"],"id":"9d3b6448-14cc-4146-9a93-98150031fcb6","published":"2020-11-30"}]},

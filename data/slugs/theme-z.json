@@ -4,6 +4,7 @@
 "theme/zbench":{"name":"zBench","vulns":[{"affected":["<= 1.4.2"],"id":"CVE-2024-37521","unfixed":true}]},
 "theme/zeever":{"name":"Zeever","vulns":[{"affected":["<= 1.1.0"],"fixed":["1.1.1"],"id":"CVE-2024-33685"}]},
 "theme/zegen":{"name":"Zegen - Church WordPress Theme","vulns":[{"affected":["<= 1.1.9"],"id":"CVE-2025-2289","unfixed":true},{"affected":["<= 1.1.9"],"id":"CVE-2025-53252","unfixed":true},{"affected":["<= 1.1.9"],"id":"CVE-2026-27419","unfixed":true}]},
+"theme/zeinet":{"name":"Zeinet - Internet Provider & Satellite TV","vulns":[{"affected":["<= 1.0.0"],"id":"CVE-2026-93951","unfixed":true}]},
 "theme/zeka":{"name":"Zeka","vulns":[{"affected":["<= 1.0.9"],"fixed":["1.0.10"],"id":"CVE-2024-34810"}]},
 "theme/zella-theme":{"name":"zella-theme","vulns":[{"affected":["<= 2.6.2"],"fixed":["2.6.3"],"id":"CVE-2026-75873"}]},
 "theme/zenlite":{"name":"ZenLite","vulns":[{"affected":["<= 4.3"],"fixed":["4.4"],"id":"CVE-2011-3854"}]},
