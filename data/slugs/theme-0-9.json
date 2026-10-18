@@ -1,4 +1,4 @@
 {
 "theme/15zine":{"name":"15Zine | Magazine Newspaper Blog News WordPress Theme","vulns":[{"affected":["< 3.3.0"],"fixed":["3.3.0"],"id":"CVE-2020-36510"}]},
-"theme/5star":{"name":"5 Star Hotel","vulns":[{"affected":["<= 1.0"],"fixed":["1.1"],"id":"b2cea890-b131-47cd-9050-a484fb1895f6","published":"2014-03-31"}]}
+"theme/5star":{"name":"5star","vulns":[{"affected":["< 100"],"id":"WPV-1a912885cc0d458d1d4db249306b5740df35b052dbc933f69cb6621ad8ca8ce5","unfixed":true},{"affected":["<= 1.0"],"closed":true,"id":"WPV-23e006d8d68129556ea68f7d5af4f395875de639d48e8941cc9bc13a87b6c723","published":"2014-03-31","unfixed":true},{"affected":["<= 1.0"],"fixed":["1.1"],"id":"b2cea890-b131-47cd-9050-a484fb1895f6","published":"2014-03-31"}]}
 }

@@ -1,14 +1,14 @@
 {
-"theme/qaengine":{"name":"QAEngine","vulns":[{"affected":["<= 1.4"],"fixed":["1.5"],"id":"2224b17e-e327-4b86-85db-ad878f989839","published":"2015-04-24"}]},
+"theme/qaengine":{"name":"QAEngine","vulns":[{"affected":["<= 1.4"],"fixed":["1.5"],"id":"2224b17e-e327-4b86-85db-ad878f989839","published":"2015-04-24"},{"affected":["< 1.5"],"id":"WPV-ad69106529e8967499ecb0c35c35a654df28402785f7983bd080cfde67ea1f7d","published":"2015-04-24"},{"affected":["< 1.6"],"closed":true,"id":"WPV-c60ad1477545f984aecc73083ed2a710de623068dde4b2d60818351991d4a527","published":"2015-04-06"},{"affected":["<= 1.4"],"id":"WPV-e0844f6c42b41b870366478195cd06a28b392cd363459056f53f635205fda7b7","unfixed":true}]},
 "theme/qempo":{"name":"Qempo - Digital Agency Services WordPress Theme","vulns":[{"affected":["<= 1.2.6"],"id":"CVE-2024-43334","unfixed":true}]},
-"theme/qizon":{"name":"Qizon - Crowdfunding & Charity WordPress Theme","vulns":[{"affected":["<= 1.1.6"],"fixed":["1.1.7"],"id":"CVE-2024-43334"}]},
+"theme/qizon":{"name":"Qizon - Crowdfunding & Charity WordPress Theme","vulns":[{"affected":["<= 1.0.0","<= 1.1.6"],"by_source":{"wordfence":["<= 1.1.6"],"wpvulnerability":["<= 1.0.0"]},"fixed":["1.1.7"],"id":"CVE-2024-43334","unfixed":true}]},
 "theme/qreatix":{"name":"Qreatix","vulns":[{"affected":["<= 1.9.4"],"id":"CVE-2025-69104","unfixed":true}]},
 "theme/qt-kentharadio":{"name":"KenthaRadio - Addon for Kentha Music WordPress Theme To Add Radio Station and Schedule Functionality","vulns":[{"affected":["< 2.0.2"],"fixed":["2.0.2"],"id":"CVE-2021-24472"},{"affected":["<= 2.2.0"],"id":"CVE-2025-69003","unfixed":true}]},
-"theme/quality":{"name":"Quality","vulns":[{"affected":["< 2.7.4"],"fixed":["2.7.4"],"id":"e09e48db-f74a-4663-a724-24938a6c277c","published":"2022-02-14"}]},
+"theme/quality":{"name":"Quality","vulns":[{"affected":["< 2.7.4"],"id":"WPV-83a36c2ad32da59d7efded369683c47725eec1ee51785abc5e9dcc7a8387a816"},{"affected":["< 2.7.4"],"id":"WPV-f5d6ea1888afa840f2bf35c6b542d97db2a0aee3c96cc01ce1eac7e6a77377d4","published":"2022-02-14"},{"affected":["< 2.7.4"],"fixed":["2.7.4"],"id":"e09e48db-f74a-4663-a724-24938a6c277c","published":"2022-02-14"}]},
 "theme/quantum":{"name":"quantum","vulns":[{"affected":["<= 1.0"],"id":"CVE-2026-22421","unfixed":true}]},
 "theme/quanzo":{"name":"Quanzo - Creative Portfolio Template Kit","vulns":[{"affected":["<= 1.0.10"],"id":"CVE-2026-27989","unfixed":true}]},
-"theme/quasar":{"name":"Quasar - WordPress Theme with Animation Builder","vulns":[{"affected":["< 2.0"],"fixed":["2.0"],"id":"86566819-ec2e-4d56-87f6-4cd4b6de6192","published":"2015-02-02"}]},
+"theme/quasar":{"name":"Quasar - WordPress Theme with Animation Builder","vulns":[{"affected":["< 2.0"],"fixed":["2.0"],"id":"86566819-ec2e-4d56-87f6-4cd4b6de6192","published":"2015-02-02"},{"affected":["< 2.0"],"id":"WPV-245bd8e46f5cece427f6edec5ab3bed2698abd2076c66e95c10fb215fd31ecf7","published":"2015-02-02"},{"affected":["< 2.0"],"id":"WPV-3fd203a349a9b7ce9d5c0f283ade010d2aa4d433a9ab58789aa7aae45a5bb7a4"},{"affected":["< 1.9.2"],"id":"WPV-799c74a77c3a60edbc799b8bc41be8052ad329f2ed37a1fbfefc48384a8dd0c8","published":"2015-02-22"}]},
 "theme/quirky":{"name":"Quirky","vulns":[{"affected":["<= 1.23"],"id":"CVE-2025-69148","unfixed":true}]},
-"theme/quota":{"name":"Easy Digital Downloads - Quota","vulns":[{"affected":["< 1.2.5"],"fixed":["1.2.5"],"id":"CVE-2015-9534"}]},
+"theme/quota":{"name":"Easy Digital Downloads - Quota","vulns":[{"affected":["< 1.2.5"],"fixed":["1.2.5"],"id":"CVE-2015-9534"},{"affected":["< 1.2.5"],"id":"WPV-ab03064af5c5fb8fee995b97e5564633dd61fb3588fb2bbddaa9bfe02e69b8e9","published":"2015-04-20"}]},
 "theme/qwery":{"name":"Qwery - Multi-Purpose Business WordPress & WooCommerce Theme + ChatGPT","vulns":[{"affected":["< 3.6.0"],"fixed":["3.6.0"],"id":"CVE-2025-26592"},{"affected":["<= 3.6.1"],"id":"CVE-2026-78533","unfixed":true}]}
 }
