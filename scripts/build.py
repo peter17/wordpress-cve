@@ -285,6 +285,9 @@ def pkg_fields(p):
     """Version information of a package, without type/slug."""
     by_src = {s: sorted(r) for s, r in sorted(p["ranges"].items()) if r}
     union = sorted({r for rs in by_src.values() for r in rs})
+    # "*" only means a source could not read the versions: a real range from another source wins
+    if "*" in union and len(union) > 1:
+        union.remove("*")
     out = {}
     if union:
         out["affected"] = union
