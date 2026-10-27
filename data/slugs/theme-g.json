@@ -30,7 +30,7 @@
 "theme/givingpress-lite":{"name":"GivingPress Lite","vulns":[{"affected":["<= 1.8.6"],"id":"CVE-2024-43352","unfixed":true}]},
 "theme/glamchic":{"name":"GlamChic | Beauty Blog WordPress Theme + Store","vulns":[{"affected":["<= 1.0.11"],"id":"CVE-2025-49941","unfixed":true}]},
 "theme/glamer":{"name":"Glamer","vulns":[{"affected":["<= 1.0.2"],"id":"CVE-2025-53216","unfixed":true}]},
-"theme/glaze-blog-lite":{"name":"Glaze Blog Lite","vulns":[{"affected":["*","<= 1.1.4","<= <= 1.1.4"],"by_source":{"cvelistV5":["<= <= 1.1.4"],"wordfence":["*"],"wpvulnerability":["<= 1.1.4"]},"id":"CVE-2023-28687","unfixed":true}]},
+"theme/glaze-blog-lite":{"name":"Glaze Blog Lite","vulns":[{"affected":["<= 1.1.4","<= <= 1.1.4"],"by_source":{"cvelistV5":["<= <= 1.1.4"],"wordfence":["*"],"wpvulnerability":["<= 1.1.4"]},"id":"CVE-2023-28687","unfixed":true}]},
 "theme/glb":{"name":"glb","vulns":[{"affected":["< 1.2.3","<= 1.2.2"],"by_source":{"wordfence":["<= 1.2.2"],"wpvulnerability":["< 1.2.3"]},"fixed":["1.2.3"],"id":"CVE-2026-32388"}]},
 "theme/globallogistics":{"name":"Global Logistics","vulns":[{"affected":["<= 3.20"],"id":"CVE-2026-28018","unfixed":true}]},
 "theme/glossy-blog":{"name":"Glossy Blog","vulns":[{"affected":["<= 1.0.3"],"id":"CVE-2025-26934","unfixed":true}]},

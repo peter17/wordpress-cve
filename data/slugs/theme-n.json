@@ -67,7 +67,7 @@
 "theme/nooni":{"name":"nooni","vulns":[{"affected":["< 1.5.1"],"fixed":["1.5.1"],"id":"CVE-2026-25353"}]},
 "theme/north-wp":{"name":"North - One Page Parallax WordPress Theme","vulns":[{"affected":["<= 5.7.5"],"id":"CVE-2025-69099","unfixed":true},{"affected":["<= 5.7.5"],"id":"CVE-2025-69100","unfixed":true}]},
 "theme/notarius":{"name":"Notarius - Legal Advisor WordPress Theme","vulns":[{"affected":["<= 1.9"],"id":"CVE-2026-28124","unfixed":true}]},
-"theme/nova-lite":{"name":"n/a","vulns":[{"affected":["*","< 1.3.9"],"by_source":{"cvelistV5-inferred":["*"],"wordfence":["< 1.3.9"],"wpvulnerability":["< 1.3.9"]},"fixed":["1.3.9"],"id":"CVE-2020-17362"}]},
+"theme/nova-lite":{"name":"n/a","vulns":[{"affected":["< 1.3.9"],"by_source":{"cvelistV5-inferred":["*"],"wordfence":["< 1.3.9"],"wpvulnerability":["< 1.3.9"]},"fixed":["1.3.9"],"id":"CVE-2020-17362"}]},
 "theme/nrgbarbershop":{"name":"nrgbarbershop","vulns":[{"affected":["<= 1.9"],"id":"CVE-2025-60230","unfixed":true}]},
 "theme/nrgbusiness":{"name":"The Business - Powerful One Page Biz Theme","vulns":[{"affected":["<= 1.6.1"],"id":"CVE-2025-31430","unfixed":true},{"affected":["<= 1.6.1"],"id":"CVE-2025-31630","unfixed":true}]},
 "theme/nrgfashion":{"name":"The Fashion - Model Agency One Page Beauty Theme","vulns":[{"affected":["<= 1.4.4"],"id":"CVE-2025-31052","unfixed":true}]},

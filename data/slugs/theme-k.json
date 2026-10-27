@@ -36,7 +36,7 @@
 "theme/kidz":{"name":"KIDZ - Kids Store and Baby Shop Theme","vulns":[{"affected":["< 5.25","<= 5.24"],"by_source":{"wordfence":["<= 5.24"],"wpvulnerability":["< 5.25"]},"fixed":["5.25"],"id":"CVE-2026-25029"}]},
 "theme/kindlycare":{"name":"KindlyCare - Senior Care & Medical WordPress Theme","vulns":[{"affected":["<= 1.6.1"],"id":"CVE-2025-69371","unfixed":true}]},
 "theme/kingcabs":{"name":"Kingcabs","vulns":[{"affected":["<= 1.1.5","<= 1.1.8"],"by_source":{"wordfence":["<= 1.1.5","<= 1.1.8"],"wpvulnerability":["<= 1.1.5"]},"fixed":["1.1.9"],"id":"CVE-2023-32959","unfixed":true},{"affected":["< 1.1.10","<= 1.1.9"],"by_source":{"cvelistV5-inferred":["<= 1.1.9"],"wordfence":["<= 1.1.9"],"wpvulnerability":["< 1.1.10"]},"fixed":["1.1.10"],"id":"CVE-2025-7058"}]},
-"theme/kingclub-theme":{"name":"Kingclub Theme","vulns":[{"affected":["*","< 100"],"by_source":{"wordfence":["*"],"wpvulnerability":["< 100"]},"closed":true,"id":"CVE-2022-0316","unfixed":true}]},
+"theme/kingclub-theme":{"name":"Kingclub Theme","vulns":[{"affected":["< 100"],"by_source":{"wordfence":["*"],"wpvulnerability":["< 100"]},"closed":true,"id":"CVE-2022-0316","unfixed":true}]},
 "theme/kingler":{"name":"Kingler","vulns":[{"affected":["<= 1.7"],"id":"CVE-2026-27438","unfixed":true}]},
 "theme/kings-queens":{"name":"Kings & Queens | Historical War Medieval Reenactment WordPress Theme","vulns":[{"affected":["<= 1.1.16"],"id":"CVE-2025-49363","unfixed":true}]},
 "theme/kinsley":{"name":"Kinsley - Hotel Booking Theme","vulns":[{"affected":["< 3.4.5","<= 3.4.4"],"by_source":{"wordfence":["<= 3.4.4"],"wpvulnerability":["< 3.4.5"]},"fixed":["3.4.5"],"id":"CVE-2025-48290"}]},
