@@ -5,7 +5,7 @@
 "theme/yogi":{"name":"Yogi - Health Beauty & Yoga WordPress Theme","vulns":[{"affected":["< 2.9.3"],"fixed":["2.9.3"],"id":"CVE-2025-24779"}]},
 "theme/yokoo":{"name":"Yokoo","vulns":[{"affected":["<= 1.1.11"],"id":"CVE-2025-69400","unfixed":true}]},
 "theme/yolox":{"name":"Yolox | Business & Startup Blog WordPress Theme","vulns":[{"affected":["<= 1.0.15"],"id":"CVE-2025-69075","unfixed":true}]},
-"theme/yootheme":{"name":"YOOtheme Pro","vulns":[{"affected":["<= 5.0.34"],"fixed":["5.0.35"],"id":"CVE-2026-10077"}]},
+"theme/yootheme":{"name":"YOOtheme Pro","vulns":[{"affected":["<= 5.0.34"],"fixed":["5.0.35"],"id":"CVE-2026-10077"},{"affected":[">= 5.0.0, < 5.0.53",">= 5.0.0, <= 5.0.52"],"by_source":{"wordfence":[">= 5.0.0, <= 5.0.52"],"wpvulnerability":[">= 5.0.0, < 5.0.53"]},"fixed":["5.0.53"],"id":"CVE-2026-102785"}]},
 "theme/yottis":{"name":"Yottis","vulns":[{"affected":["< 1.0.1"],"id":"CVE-2020-10257"},{"affected":["<= 1.0.10"],"id":"CVE-2026-28011","unfixed":true}]},
 "theme/yourjourney":{"name":"Your Journey","vulns":[{"affected":["<= 1.9.8"],"closed":true,"id":"CVE-2023-3933","unfixed":true}]},
 "theme/yozi":{"name":"Yozi - Multipurpose Electronics WooCommerce WordPress Theme","vulns":[{"affected":["< 2.0.66.1","<= 2.0.63"],"by_source":{"wordfence":["<= 2.0.63"],"wpvulnerability":["< 2.0.66.1"]},"fixed":["2.0.66.1"],"id":"CVE-2025-32289"}]},
