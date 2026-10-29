@@ -62,7 +62,7 @@
 "theme/christine-miller":{"name":"Miller | Personal Assistant & Administrative Services WordPress Theme","vulns":[{"affected":["<= 1.3.3"],"id":"CVE-2026-28053","unfixed":true}]},
 "theme/chroma":{"name":"Chroma","vulns":[{"affected":["<= 1.11"],"id":"CVE-2026-28020","unfixed":true}]},
 "theme/chronicle":{"name":"Chronicle","vulns":[{"affected":["<= 1.0"],"id":"CVE-2026-27337","unfixed":true}]},
-"theme/churchope":{"name":"ChurcHope","vulns":[{"affected":["< 2.2"],"id":"CVE-2014-125134"},{"affected":["< 2.2"],"closed":true,"id":"WPV-0ce8d92ae786deb2c2a24df6206b6b8cca8442bd2f58a6087639d8b2ce914b02","published":"2014-12-07"},{"affected":["< 2.2"],"id":"WPV-97e204d19f9df1492805b233705b04a38c546b2011fe82087402a5cc5cb61cf7"},{"affected":["<= 2.1"],"fixed":["2.2"],"id":"d5c0c64c-7105-4bc3-b42d-89cfa44d02b9","published":"2014-12-07"}]},
+"theme/churchope":{"name":"ChurcHope","vulns":[{"affected":["< 2.2","<= 2.1"],"by_source":{"wordfence":["<= 2.1"],"wpvulnerability":["< 2.2"]},"fixed":["2.2"],"id":"CVE-2014-125134"},{"affected":["< 2.2"],"closed":true,"id":"WPV-0ce8d92ae786deb2c2a24df6206b6b8cca8442bd2f58a6087639d8b2ce914b02","published":"2014-12-07"},{"affected":["< 2.2"],"id":"WPV-97e204d19f9df1492805b233705b04a38c546b2011fe82087402a5cc5cb61cf7"}]},
 "theme/churel":{"name":"Churel","vulns":[{"affected":["<= 1.0.8"],"closed":true,"id":"CVE-2025-31419","unfixed":true}]},
 "theme/cinerama":{"name":"Cinerama - A WordPress Theme for Movie Studios and Filmmakers","vulns":[{"affected":["<= 2.4","<= 2.9"],"by_source":{"wordfence":["<= 2.4"],"wpvulnerability":["<= 2.9"]},"id":"CVE-2025-68987","unfixed":true}]},
 "theme/city-store":{"name":"City Store","vulns":[{"affected":["<= 1.4.5"],"closed":true,"id":"CVE-2025-26737","unfixed":true}]},

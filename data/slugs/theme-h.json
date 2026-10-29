@@ -1,5 +1,6 @@
 {
 "theme/haaken":{"name":"Haaken","vulns":[{"affected":["<= 1.5"],"fixed":["1.6"],"id":"CVE-2026-104747","unfixed":true}]},
+"theme/hallelujah":{"name":"Hallelujah | Religion & Church Charity WordPress Theme","vulns":[{"affected":["<= 1.1.1"],"id":"CVE-2026-112853","unfixed":true}]},
 "theme/halpes":{"name":"Halpes - Nonprofit Charity Drupal 10 Theme","vulns":[{"affected":["< 1.2.5"],"fixed":["1.2.5"],"id":"CVE-2024-43334"}]},
 "theme/halstein":{"name":"Halstein - Business Consulting WordPress Theme","vulns":[{"affected":["< 1.8"],"fixed":["1.8"],"id":"CVE-2026-32508"}]},
 "theme/hampton":{"name":"Hampton | Home Design and Renovation WordPress Theme","vulns":[{"affected":["<= 1.3.3"],"id":"CVE-2025-26592","unfixed":true}]},
@@ -43,6 +44,7 @@
 "theme/hobo":{"name":"Hobo | Travel Lifestyle Blog WordPress Theme","vulns":[{"affected":["<= 1.0.10"],"id":"CVE-2025-69077","unfixed":true}]},
 "theme/hogwords":{"name":"Hogwords | School, University Education WordPress Theme","vulns":[{"affected":["<= 1.2.6"],"id":"CVE-2025-26592","unfixed":true},{"affected":["<= 1.2.7"],"id":"CVE-2026-93938","unfixed":true}]},
 "theme/holding_pattern":{"name":"Holding Pattern","vulns":[{"affected":["<= 0.6"],"closed":true,"id":"CVE-2015-1172","unfixed":true}]},
+"theme/holistic-center":{"name":"Holistic Center | Wellness & Spa Salon PSD Template","vulns":[{"affected":["<= 1.2.6"],"id":"CVE-2026-112854","unfixed":true}]},
 "theme/holmes":{"name":"Holmes - Digital Agency WordPress Theme","vulns":[{"affected":["<= 1.7"],"id":"CVE-2026-22399","unfixed":true},{"affected":["<= 1.7"],"id":"CVE-2026-22400","unfixed":true}]},
 "theme/home-services":{"name":"Home Services","vulns":[{"affected":["<= 1.2.6"],"id":"CVE-2025-26930","unfixed":true}]},
 "theme/homelancer":{"name":"HomeLancer","vulns":[{"affected":["< 1.0.2","<= 1.0.1"],"by_source":{"wordfence":["<= 1.0.1"],"wpvulnerability":["< 1.0.2"]},"fixed":["1.0.2"],"id":"CVE-2025-49375"}]},

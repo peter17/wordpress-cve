@@ -73,7 +73,7 @@
 "plugin/victo":{"name":"Victo","vulns":[{"affected":["<= 1.4.16"],"id":"CVE-2026-28047"}]},
 "plugin/video-analytics-for-cloudflare-stream":{"name":"Video Analytics for Cloudflare Stream","vulns":[{"affected":["< 1.2","<= 1.1"],"by_source":{"wordfence":["<= 1.1"],"wpvulnerability":["< 1.2"]},"fixed":["1.2"],"id":"CVE-2023-33999"}]},
 "plugin/video-background":{"name":"Video Background","vulns":[{"affected":["< 2.7.5","<= 2.7.3"],"by_source":{"wordfence":["<= 2.7.3"],"wpvulnerability":["< 2.7.5"]},"fixed":["2.7.4"],"id":"CVE-2022-4652"}]},
-"plugin/video-background-block":{"name":"Video Background Block – Use video as background in the section.","vulns":[{"affected":["<= 2.0.3"],"id":"CVE-2026-42634","unfixed":true}]},
+"plugin/video-background-block":{"name":"Video Background Block – Use video as background in the section.","vulns":[{"affected":["<= 2.0.3"],"fixed":["2.0.4"],"id":"CVE-2026-42634","unfixed":true}]},
 "plugin/video-blogster-lite":{"name":"Video Blogster Lite","vulns":[{"affected":["<= 1.2"],"id":"CVE-2025-47689","unfixed":true},{"affected":["<= 1.2"],"id":"CVE-2025-60132","unfixed":true}]},
 "plugin/video-central":{"name":"Video Central for WordPress","vulns":[{"affected":["<= 1.3.0"],"closed":true,"id":"CVE-2023-0418","unfixed":true}]},
 "plugin/video-comments-webcam-recorder":{"name":"n/a","vulns":[{"affected":["< 1.92","<= 1.55"],"by_source":{"cvelistV5-inferred":["*"],"wordfence":["<= 1.55"],"wpvulnerability":["< 1.92"]},"fixed":["1.55.3"],"id":"CVE-2014-4567"}]},

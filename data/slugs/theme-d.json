@@ -33,6 +33,7 @@
 "theme/deston":{"name":"Deston - Corporate Business WordPress Theme","vulns":[{"affected":["<= 1.0"],"id":"CVE-2026-27080","unfixed":true}]},
 "theme/detailx":{"name":"DetailX - Car Detailing, Shop & Repair Theme","vulns":[{"affected":["<= 1.10.0"],"id":"CVE-2025-60058","unfixed":true}]},
 "theme/diamond":{"name":"Diamond","vulns":[{"affected":["<= 2.4.8"],"id":"CVE-2025-69391","unfixed":true}]},
+"theme/diarise":{"name":"diarise","vulns":[{"affected":["<= 1.5.9"],"id":"CVE-2019-25779","unfixed":true},{"affected":["< 1.1"],"id":"WPV-488d016a2a196476519d226a24ccb6603792bb5ae5d5ba420289214044b8186d","published":"2014-08-01"}]},
 "theme/diary":{"name":"diary","vulns":[{"affected":["< 2.0"],"fixed":["2.0"],"id":"07bccf56-99b2-42e6-93ab-606af65e6cac","published":"2012-07-15"},{"affected":["< 1.1"],"closed":true,"id":"WPV-c01d1ad66af093f88d60b746a580cff7e484482ef79bdb49337d86baddb4753a","published":"2014-08-01"},{"affected":["< 1.1"],"id":"WPV-e69fceaf6250a89faf4c469d3d5a89996f7f9e4ce2812a3af6b59ab5e6e843ec","published":"2012-07-16"},{"affected":["< 2.0"],"id":"WPV-e9e88cea301aabdbbe59fa658d02c57062c595c974b977a476d4545927f28f87"}]},
 "theme/digi-store":{"name":"Digi Store","vulns":[{"affected":["<= 1.1.4"],"closed":true,"id":"CVE-2025-22354","unfixed":true}]},
 "theme/digiqole":{"name":"Digiqole - News Magazine WordPress Theme","vulns":[{"affected":["< 2.2.7"],"fixed":["2.2.7"],"id":"CVE-2025-67527"}]},
