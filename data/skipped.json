@@ -9827,6 +9827,7 @@
 {"cve":"CVE-2026-103300","product":"Eurobank WooCommerce Payment Gateway","reason":"packageName missing"},
 {"cve":"CVE-2026-103301","product":"Payment Gateway for Telcell","reason":"packageName missing"},
 {"cve":"CVE-2026-103308","product":"Visma Pay for WooCommerce","reason":"packageName missing"},
+{"cve":"CVE-2026-103310","product":"PayHere Payment Gateway","reason":"packageName missing"},
 {"cve":"CVE-2026-103311","product":"Coinbase Commerce Payment Gateway for WooCommerce","reason":"packageName missing"},
 {"cve":"CVE-2026-103313","product":"BitPay Gateway for WooCommerce","reason":"packageName missing"},
 {"cve":"CVE-2026-103324","product":"Cardinity Payment Gateway for WooCommerce","reason":"packageName missing"},
