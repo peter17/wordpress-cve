@@ -8,7 +8,7 @@
 "theme/quantum":{"name":"quantum","vulns":[{"affected":["<= 1.0"],"id":"CVE-2026-22421","unfixed":true}]},
 "theme/quanzo":{"name":"Quanzo - Creative Portfolio Template Kit","vulns":[{"affected":["<= 1.0.10"],"id":"CVE-2026-27989","unfixed":true}]},
 "theme/quasar":{"name":"Quasar - WordPress Theme with Animation Builder","vulns":[{"affected":["< 2.0"],"fixed":["2.0"],"id":"86566819-ec2e-4d56-87f6-4cd4b6de6192","published":"2015-02-02"},{"affected":["< 2.0"],"id":"WPV-245bd8e46f5cece427f6edec5ab3bed2698abd2076c66e95c10fb215fd31ecf7","published":"2015-02-02"},{"affected":["< 2.0"],"id":"WPV-3fd203a349a9b7ce9d5c0f283ade010d2aa4d433a9ab58789aa7aae45a5bb7a4"},{"affected":["< 1.9.2"],"id":"WPV-799c74a77c3a60edbc799b8bc41be8052ad329f2ed37a1fbfefc48384a8dd0c8","published":"2015-02-22"}]},
-"theme/quirky":{"name":"Quirky","vulns":[{"affected":["<= 1.23"],"id":"CVE-2025-69148","unfixed":true}]},
+"theme/quirky":{"name":"Quirky","vulns":[{"affected":["<= 1.23"],"id":"CVE-2025-69148","unfixed":true},{"affected":["<= 1.23"],"id":"CVE-2026-54857","unfixed":true}]},
 "theme/quota":{"name":"Easy Digital Downloads - Quota","vulns":[{"affected":["< 1.2.5"],"fixed":["1.2.5"],"id":"CVE-2015-9534"},{"affected":["< 1.2.5"],"id":"WPV-ab03064af5c5fb8fee995b97e5564633dd61fb3588fb2bbddaa9bfe02e69b8e9","published":"2015-04-20"}]},
 "theme/qwery":{"name":"Qwery - Multi-Purpose Business WordPress & WooCommerce Theme + ChatGPT","vulns":[{"affected":["< 3.6.0"],"fixed":["3.6.0"],"id":"CVE-2025-26592"},{"affected":["<= 3.6.1"],"id":"CVE-2026-78533","unfixed":true}]}
 }
