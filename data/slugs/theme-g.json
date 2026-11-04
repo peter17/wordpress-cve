@@ -84,7 +84,7 @@
 "theme/grillandchow":{"name":"Grill and Chow - Fast Food & Pizza WordPress Theme","vulns":[{"affected":["< 1.6.1","<= 1.6"],"by_source":{"wordfence":["<= 1.6"],"wpvulnerability":["< 1.6.1"]},"fixed":["1.6.1"],"id":"CVE-2025-49297"}]},
 "theme/grip":{"name":"Grip","vulns":[{"affected":["<= 1.0.9"],"closed":true,"id":"CVE-2024-52488","unfixed":true},{"affected":["<= 1.0.9"],"closed":true,"id":"CVE-2025-26735","unfixed":true}]},
 "theme/grit":{"name":"Grit - Life Coach & Business Coaching WordPress Theme","vulns":[{"affected":["<= 1.0.1"],"id":"CVE-2026-28041","unfixed":true}]},
-"theme/grocery-shopping-store":{"name":"Grocery Shopping Store","vulns":[{"affected":["<= 1.3.3"],"id":"CVE-2026-93949","unfixed":true}]},
+"theme/grocery-shopping-store":{"name":"Grocery Shopping Store","vulns":[{"affected":["<= 1.3.3","<= 1.3.5"],"by_source":{"wordfence":["<= 1.3.5"],"wpvulnerability":["<= 1.3.3"]},"fixed":["1.3.6"],"id":"CVE-2026-93949","unfixed":true}]},
 "theme/gucherry-blog":{"name":"GuCherry Blog","vulns":[{"affected":["<= 1.1.8"],"id":"CVE-2024-32531","unfixed":true}]},
 "theme/guff":{"name":"Guff - Blog & Magazine Ghost Theme","vulns":[{"affected":["<= 1.0.1"],"id":"CVE-2026-28076","unfixed":true}]},
 "theme/gunslinger":{"name":"Gunslinger","vulns":[{"affected":["<= 1.7"],"id":"CVE-2025-69166","unfixed":true},{"affected":["<= 1.11"],"id":"CVE-2026-62018","unfixed":true}]},

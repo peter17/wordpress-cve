@@ -59,7 +59,7 @@
 "plugin/neon-text":{"name":"Neon text","vulns":[{"affected":["< 1.2","<= 1.1"],"by_source":{"cvelistV5-inferred":["<= 1.1"],"wordfence":["<= 1.1"],"wpvulnerability":["< 1.2"]},"fixed":["1.2"],"id":"CVE-2023-5817"}]},
 "plugin/neos-connector-for-fakturama":{"name":"Neos Connector for Fakturama","vulns":[{"affected":["<= 0.0.14"],"closed":true,"id":"CVE-2026-4143","unfixed":true}]},
 "plugin/nepali-date-converter":{"name":"Nepali Date Converter","vulns":[{"affected":["< 3.0.0","<= 2.0.8"],"by_source":{"cvelistV5":["<= 2.0.8"],"wordfence":["<= 2.0.8"],"wpvulnerability":["< 3.0.0"]},"fixed":["3.0.0"],"id":"CVE-2025-26950"}]},
-"plugin/nepali-date-utilities":{"name":"Nepali Date Utilities","vulns":[{"affected":["<= 1.0.13","<= 1.0.15"],"by_source":{"cvelistV5":["<= 1.0.15"],"wordfence":["<= 1.0.13"],"wpvulnerability":["<= 1.0.15"]},"id":"CVE-2025-32664","unfixed":true}]},
+"plugin/nepali-date-utilities":{"name":"Nepali Date Utilities","vulns":[{"affected":["<= 1.0.15","<= 1.0.16"],"by_source":{"cvelistV5":["<= 1.0.15"],"wordfence":["<= 1.0.16"],"wpvulnerability":["<= 1.0.15"]},"fixed":["1.1.0"],"id":"CVE-2025-32664","unfixed":true}]},
 "plugin/nepali-post-date":{"name":"Nepali Post Date","vulns":[{"affected":["<= 5.1.1"],"closed":true,"id":"CVE-2025-46480","unfixed":true}]},
 "plugin/neresa-wp":{"name":"Neresa","vulns":[{"affected":["<= 1.3"],"id":"CVE-2025-49383"}]},
 "plugin/nertworks-all-in-one-social-share-tools":{"name":"NertWorks All in One Social Share Tools","vulns":[{"affected":["<= 1.26"],"closed":true,"id":"CVE-2025-31447","unfixed":true}]},
