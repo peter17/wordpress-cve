@@ -85,6 +85,7 @@
 "theme/roseta":{"name":"Roseta","vulns":[{"affected":["<= 1.3.0"],"id":"CVE-2024-45451","unfixed":true}]},
 "theme/rovenstart":{"name":"Rovenstart","vulns":[{"affected":["< 1.2.2",">= 1.0.0, <= 1.2.0"],"by_source":{"wordfence":[">= 1.0.0, <= 1.2.0"],"wpvulnerability":["< 1.2.2"]},"fixed":["1.2.2"],"id":"CVE-2023-33999"}]},
 "theme/royal-elementor-kit":{"name":"Royal Elementor Kit","vulns":[{"affected":["< 1.0.117","<= 1.0.116"],"by_source":{"cvelistV5-inferred":["<= 1.0.116"],"wordfence":["<= 1.0.116"],"wpvulnerability":["< 1.0.117"]},"fixed":["1.0.117"],"id":"CVE-2024-0835"},{"affected":["< 1.0.117","<= 1.0.116"],"by_source":{"cvelistV5":["<= 1.0.116"],"wordfence":["<= 1.0.116"],"wpvulnerability":["< 1.0.117"]},"fixed":["1.0.117"],"id":"CVE-2024-32773"}]},
+"theme/royal-event":{"name":"Royal Event | Catering & Wedding Chef Wordpress Theme","vulns":[{"affected":["<= 2.0"],"id":"CVE-2026-119526","unfixed":true}]},
 "theme/royale-news":{"name":"Royale News","vulns":[{"affected":["<= 2.2.4"],"id":"CVE-2026-39649","unfixed":true}]},
 "theme/rozario":{"name":"Rozario - Restaurant & Food WordPress Theme","vulns":[{"affected":["<= 1.4"],"id":"CVE-2025-31065","unfixed":true},{"affected":["<= 1.4"],"id":"CVE-2025-31927","unfixed":true}]},
 "theme/rozy":{"name":"Rozy - Flower Shop WooCommerce WordPress Theme (4+ Indexes + Mobile Layouts Ready)","vulns":[{"affected":["<= 1.2.25"],"id":"CVE-2025-12549","unfixed":true}]},
