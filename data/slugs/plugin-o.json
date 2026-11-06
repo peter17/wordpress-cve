@@ -124,7 +124,7 @@
 "plugin/opal-service":{"name":"Opal Service","vulns":[{"affected":["<= 1.9.1"],"id":"CVE-2025-62913","unfixed":true}]},
 "plugin/opal-widgets-for-elementor":{"name":"Opal Widgets For Elementor","vulns":[{"affected":["<= 1.6.9"],"closed":true,"id":"CVE-2024-33649","unfixed":true}]},
 "plugin/opal-woo-custom-product-variation":{"name":"Opal Woo Custom Product Variation","vulns":[{"affected":["< 1.1.4","<= 1.1.3"],"by_source":{"cvelistV5":["<= 1.1.3"],"wordfence":["<= 1.1.3"],"wpvulnerability":["< 1.1.4"]},"fixed":["1.1.4"],"id":"CVE-2024-52444"},{"affected":["< 1.2.1","<= 1.2.0"],"by_source":{"cvelistV5":["<= 1.2.0"],"wordfence":["<= 1.2.0"],"wpvulnerability":["< 1.2.1"]},"fixed":["1.2.1"],"id":"CVE-2025-47535"}]},
-"plugin/opay-payment-gateway-for-woocommerce":{"name":"OPay Payment Gateway for WooCommerce","vulns":[{"affected":["<= 2.5.5"],"id":"CVE-2026-103319","unfixed":true}]},
+"plugin/opay-payment-gateway-for-woocommerce":{"name":"OPay Payment Gateway for WooCommerce","vulns":[{"affected":["<= 2.5.5"],"closed":true,"id":"CVE-2026-103319","unfixed":true}]},
 "plugin/opcache":{"name":"OPcache Dashboard","vulns":[{"affected":["<= 0.3.1"],"closed":true,"id":"CVE-2023-45064","unfixed":true}]},
 "plugin/open-ai-search-bar":{"name":"AI Search Bar","vulns":[{"affected":["<= 2.1"],"fixed":["2.2"],"id":"CVE-2025-31563","unfixed":true}]},
 "plugin/open-brain":{"name":"OPEN-BRAIN","vulns":[{"affected":["<= 0.5.0"],"closed":true,"id":"CVE-2026-3995","unfixed":true},{"affected":["<= 0.5.0"],"closed":true,"id":"CVE-2026-4091","unfixed":true}]},
