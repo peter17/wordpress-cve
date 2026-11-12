@@ -26,6 +26,7 @@
 "theme/lemmony":{"name":"Lemmony","vulns":[{"affected":["< 1.7.1"],"fixed":["1.7.1"],"id":"CVE-2026-32328"}]},
 "theme/lendiz":{"name":"Lendiz - Loan & Funding Agency WordPress Theme","vulns":[{"affected":["< 2.0.1"],"fixed":["2.0.1"],"id":"CVE-2025-68553"}]},
 "theme/lenxel-wp":{"name":"Lenxel WP","vulns":[{"affected":["<= 1.0.31"],"id":"CVE-2026-12586","unfixed":true}]},
+"theme/leo":{"name":"Leo","vulns":[{"affected":["<= 1.7.4"],"id":"CVE-2026-125848","unfixed":true}]},
 "theme/leroux":{"name":"Leroux - Business Consulting WordPress Theme","vulns":[{"affected":["< 1.4"],"fixed":["1.4"],"id":"CVE-2026-32507"}]},
 "theme/lestin":{"name":"Lestin - Directory Listing WordPress Theme","vulns":[{"affected":["< 1.2.0","<= 1.0.6"],"by_source":{"wordfence":["< 1.2.0"],"wpvulnerability":["<= 1.0.6"]},"fixed":["1.2.0"],"id":"CVE-2024-43334","unfixed":true}]},
 "theme/lesya":{"name":"Lesya - Beauty Salon & Spa WordPress Theme","vulns":[{"affected":["< 1.7.3","<= 1.7.2"],"by_source":{"wordfence":["<= 1.7.2"],"wpvulnerability":["< 1.7.3"]},"fixed":["1.7.3"],"id":"CVE-2025-48290"}]},
