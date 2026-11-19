@@ -37,6 +37,7 @@
 "theme/intrace":{"name":"Intrace","vulns":[{"affected":["< 1.1.1","<= 1.1.0"],"by_source":{"wordfence":["<= 1.1.0"],"wpvulnerability":["< 1.1.1"]},"fixed":["1.1.1"],"id":"CVE-2024-33685"}]},
 "theme/intrepidity":{"name":"Intrepidity","vulns":[{"affected":["<= 1.5.1"],"closed":true,"id":"CVE-2023-27634","unfixed":true}]},
 "theme/invento":{"name":"Invento | Architecture Building Agency Template","vulns":[{"affected":["< 100","<= 2015-05-15"],"by_source":{"wordfence":["<= 2015-05-15"],"wpvulnerability":["< 100"]},"closed":true,"id":"CVE-2015-9483","unfixed":true}]},
+"theme/investex":{"name":"Investex - Corporate & Accounting Finance WordPress Theme","vulns":[{"affected":["<= 1.19.0"],"id":"CVE-2025-49030","unfixed":true},{"affected":["<= 1.19.0"],"id":"WPV-85c1198850a435ad9c6b336f2ec47acbb99f88c9208e70883d659ef0fbd4fbb4","unfixed":true}]},
 "theme/invetex":{"name":"Invetex","vulns":[{"affected":["<= 2.18"],"id":"CVE-2026-28031","unfixed":true},{"affected":["<= 2.18"],"id":"CVE-2026-62123","unfixed":true}]},
 "theme/invico":{"name":"Invico - WordPress Consulting Business Theme","vulns":[{"affected":["<= 1.9"],"id":"CVE-2025-31427","unfixed":true}]},
 "theme/iona":{"name":"Iona","vulns":[{"affected":["<= 1.0.8"],"id":"CVE-2025-69116","unfixed":true}]},
