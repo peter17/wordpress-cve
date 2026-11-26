@@ -5,7 +5,7 @@
 "theme/wanderic":{"name":"Wanderic - Travel Blog & Lifestyle WordPress Theme","vulns":[{"affected":["<= 1.0.10"],"id":"CVE-2025-60043","unfixed":true}]},
 "theme/wanderland":{"name":"Wanderland - Travel Blog","vulns":[{"affected":["< 1.7.2","<= 1.7.1"],"by_source":{"wordfence":["<= 1.7.1"],"wpvulnerability":["< 1.7.2"]},"fixed":["1.7.2"],"id":"CVE-2025-39467"},{"affected":["<= 1.5"],"id":"CVE-2026-22457","unfixed":true},{"affected":["<= 1.5"],"id":"CVE-2026-22458","unfixed":true}]},
 "theme/wanium":{"name":"Wanium","vulns":[{"affected":["<= 1.9.8"],"id":"CVE-2025-69136","unfixed":true}]},
-"theme/warehouse-cargo":{"name":"Warehouse Cargo","vulns":[{"affected":["<= 2.6.9","<= 2.7.0","<= 2.7.4"],"by_source":{"cvelistV5":["<= 2.6.9"],"wordfence":["<= 2.7.4"],"wpvulnerability":["<= 2.7.0"]},"fixed":["2.7.5"],"id":"CVE-2026-74018","unfixed":true}]},
+"theme/warehouse-cargo":{"name":"Warehouse Cargo","vulns":[{"affected":["<= 2.6.9","<= 2.7.0","<= 2.7.4"],"by_source":{"cvelistV5":["<= 2.6.9"],"wordfence":["<= 2.7.4"],"wpvulnerability":["<= 2.7.0"]},"fixed":["2.7.5"],"id":"CVE-2026-74018","unfixed":true},{"affected":["<= 2.7.4"],"fixed":["2.7.5"],"id":"CVE-2026-76075"}]},
 "theme/wastia":{"name":"Wastia - Waste Pickup And Disposal Services WordPress Theme","vulns":[{"affected":["< 1.1.3"],"fixed":["1.1.3"],"id":"CVE-2025-49060"}]},
 "theme/waveride":{"name":"WaveRide - Surfing and Water Sports WordPress Theme","vulns":[{"affected":["< 1.5","<= 1.4"],"by_source":{"wordfence":["<= 1.4"],"wpvulnerability":["< 1.5"]},"fixed":["1.5"],"id":"CVE-2026-39553"}]},
 "theme/wd":{"name":"W&D - Windows & Doors Theme","vulns":[{"affected":["<= 1.0"],"id":"CVE-2025-60052","unfixed":true}]},
